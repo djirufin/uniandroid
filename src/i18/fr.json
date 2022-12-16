@@ -1,0 +1,12 @@
+{
+    "translation":{
+	"WelcomeText":"Bienvenue...",
+    "EnterUsernameText": "Entrer votre email",
+    "EnterPasswordText": "Entrer mot de passe",
+    "LoginButtonText":"S'identifier",
+    "ForgotPasswordText": "Mot de passe oublié",
+    "Send":"Envoyer",    
+    "SelectLanguageText":"Choisir langue",
+    "BackLogin":"Retour a connexion"
+   }
+}
